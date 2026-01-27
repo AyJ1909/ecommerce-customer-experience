@@ -9,7 +9,8 @@ E-commerce companies often struggle with stockouts and overstock due to
 inaccurate demand forecasting and limited customer insights.
 
 ## Dataset
-Description of the dataset, time period covered, and key features.
+The dataset includes historical sales transactions, product information,
+customer identifiers, and timestamps.
 
 ## Approach
 - Data exploration and cleaning
@@ -19,13 +20,13 @@ Description of the dataset, time period covered, and key features.
 - Business insights and recommendations
 
 ## Key Insights
-Summary of the most relevant findings.
+To be defined after exploratory analysis.
 
 ## Forecasting Results
-Explanation of the forecasting models and evaluation metrics.
+To be defined after model development and evaluation.
 
 ## Business Recommendations
-Actionable insights that could help improve inventory and revenue decisions.
+To be defined based on analytical findings.
 
 ## How to Run
-Steps to reproduce the analysis locally.
+Instructions will be added once the data pipeline is completed.
